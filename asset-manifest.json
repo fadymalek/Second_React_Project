@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Second_React_Project/static/css/main.9e76c2f1.css",
+    "main.js": "/Second_React_Project/static/js/main.6a3a3e16.js",
+    "index.html": "/Second_React_Project/index.html",
+    "main.9e76c2f1.css.map": "/Second_React_Project/static/css/main.9e76c2f1.css.map",
+    "main.6a3a3e16.js.map": "/Second_React_Project/static/js/main.6a3a3e16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e76c2f1.css",
+    "static/js/main.6a3a3e16.js"
+  ]
+}
